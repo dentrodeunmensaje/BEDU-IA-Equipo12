@@ -1,1 +1,125 @@
 # **Ejercicio 1 - Web profesional para Rodrigo Villarreal Jiménez**
+
+## Alteraciones sugeridas para la sección "Hola"
+
+### Versión en Español:
+
+## ¡Hola!
+
+Soy Rodrigo Villarreal Jiménez, un apasionado profesor y músico con más de 10 años de experiencia en la educación superior. Mi viaje profesional ha sido diverso y enriquecedor, abarcando desde la composición para publicidad y cine hasta la traducción y edición de textos. Recientemente, he concluido un bootcamp de desarrollo web full stack, lo que me ha abierto nuevas puertas en el fascinante mundo de la programación.
+
+### Mi Trayectoria
+
+Mi formación académica incluye un grado en Interpretación Musical (Canto) por la Universidad Autónoma de Ciudad Juárez (UACJ) y una maestría en Tecnología Musical por la Universidad Nacional Autónoma de México (UNAM), donde fui galardonado con la medalla "Alfonso Caso" al mérito académico.
+
+### Experiencia Profesional
+
+He tenido el privilegio de enseñar producción de audio para multimedia en el Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) y artes digitales en la UACJ. Además, he trabajado como compositor y diseñador de sonido en diversos proyectos de cine y animación que han sido reconocidos en festivales internacionales.
+
+### Habilidades
+
+Mi conjunto de habilidades abarca tanto el ámbito musical como el tecnológico. Domino lenguajes de programación como JavaScript, React.js, Node.js, y MongoDB, así como herramientas de creación musical y multimedia. También soy competente en la traducción y edición de textos, habiendo trabajado en la adaptación al español de obras significativas en el ámbito de la música cinematográfica y la realidad virtual.
+
+### Logros Destacados
+
+- Composición y diseño de sonido para "Hotcakes", un cortometraje de animación seleccionado en más de 17 festivales internacionales.
+- Galardonado con el primer lugar en la categoría de cortometraje nacional de ficción en la Muestra Independiente Audiovisual Xalisco por "El Camino de Felipe".
+- Instalaciones multimedia como "Allegro vegetal" han sido exhibidas en prestigiosas galerías de arte.
+
+Estoy entusiasmado por seguir explorando nuevas fronteras en la intersección de la tecnología y las artes, y por contribuir con mis conocimientos y habilidades a proyectos innovadores y desafiantes.
+
+---
+###English version
+## Hello!
+
+I'm Rodrigo Villarreal Jiménez, a passionate teacher and musician with over 10 years of experience in higher education. My professional journey has been diverse and enriching, spanning from composing for advertising and film to translating and editing texts. Recently, I completed a full stack web development bootcamp, opening new doors for me in the fascinating world of programming.
+
+### My Background
+
+My academic background includes a degree in Music Performance (Singing) from the Universidad Autónoma de Ciudad Juárez (UACJ) and a master's degree in Music Technology from the Universidad Nacional Autónoma de México (UNAM), where I was awarded the "Alfonso Caso" medal for academic merit.
+
+### Professional Experience
+
+I've had the privilege of teaching audio production for multimedia at the Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) and digital arts at UACJ. Additionally, I have worked as a composer and sound designer for various film and animation projects that have been recognized at international festivals.
+
+### Skills
+
+My skill set spans both the musical and technological realms. I am proficient in programming languages such as JavaScript, React.js, Node.js, and MongoDB, as well as tools for musical and multimedia creation. I am also skilled in translation and text editing, having worked on the Spanish adaptation of significant works in the fields of film music and virtual reality.
+
+### Notable Achievements
+
+- Composed and designed sound for "Hotcakes," an animated short film selected at over 17 international festivals.
+- Awarded first place in the national fiction short film category at the Muestra Independiente Audiovisual Xalisco for "El Camino de Felipe."
+- Multimedia installations like "Allegro vegetal" have been exhibited in prestigious art galleries.
+
+I am excited to continue exploring new frontiers at the intersection of technology and the arts, and to contribute my knowledge and skills to innovative and challenging projects.
+
+## Alteraciones sugeridas para la sección "Proyectos de portafolio"
+
+## Proyectos de Programación
+
+### RPC-1
+
+
+
+---
+
+### A Simple Additive Synth
+
+**Versión en Español:**
+
+"A Simple Additive Synth" es un sintetizador aditivo interactivo construido utilizando una onda sinusoidal, una onda de diente de sierra y la Transformada Rápida de Fourier, escrito en JavaScript. Desplegado en [A Simple Additive Synth](https://dentrodeunmensaje.github.io/asimplesynth/).
+
+**English Version:**
+
+"A Simple Additive Synth" is an interactive additive synthesizer built using a sine wave, a sawtooth wave, and the Fast Fourier Transform, written in JavaScript. Deployed at [A Simple Additive Synth](https://dentrodeunmensaje.github.io/asimplesynth/).
+
+---
+
+### Music Visualizer
+
+**Versión en Español:**
+
+Music Visualizer es una herramienta interactiva que genera visualizaciones dinámicas basadas en la música que se está reproduciendo. Utilizando JavaScript y WebGL, esta aplicación crea efectos visuales en tiempo real que responden a las frecuencias y amplitudes del audio, proporcionando una experiencia audiovisual inmersiva. Desplegado en [Music Visualizer](https://dentrodeunmensaje.github.io/musicvisualizer/).
+
+**English Version:**
+
+Music Visualizer is an interactive tool that generates dynamic visualizations based on the music being played. Using JavaScript and WebGL, this application creates real-time visual effects that respond to the audio's frequencies and amplitudes, providing an immersive audiovisual experience. Deployed at [Music Visualizer](https://dentrodeunmensaje.github.io/musicvisualizer/).
+
+---
+
+### A Walk Through The Met
+
+**Versión en Español:**
+
+"A Walk Through The Met" es un recorrido virtual sencillo a través de cada colección del Museo Metropolitano de Arte. Comencé este proyecto hace unos meses y finalmente tuve suficiente tiempo para terminarlo. Está construido utilizando Redux, React, Express y Bootstrap. Desplegado en [A Walk Through The Met](https://themet.herokuapp.com/).
+
+**English Version:**
+
+"A Walk Through The Met" is a simple virtual tour through every collection at The Metropolitan Museum of Art. I started this project a few months back and finally had enough time to finish it. Built using Redux, React, Express, and Bootstrap. Deployed at [A Walk Through The Met](https://themet.herokuapp.com/).
+
+---
+
+### Estudios de Sensores No. 1
+
+**Versión en Español:**
+
+"Estudios de Sensores No. 1" es un experimento en arte y tecnología que forma parte de mi tesis de maestría sobre Arduino y el uso de microcontroladores en el arte. Este estudio explora la interacción entre sensores y software para crear instalaciones multimedia interactivas. Desplegado en [Estudios de Sensores No. 1](https://vimeo.com/23673326).
+
+**English Version:**
+
+"Studies of Sensors No. 1" is an experiment in art and technology that is part of my master's thesis on Arduino and the use of microcontrollers in art. This study explores the interaction between sensors and software to create interactive multimedia installations. Deployed at [Studies of Sensors No. 1](https://vimeo.com/23673326).
+
+---
+
+### Estudios de Sensores No. 3
+
+**Versión en Español:**
+
+"Estudios de Sensores No. 3" es otro experimento de mi tesis de maestría, centrado en el uso de sensores de proximidad para crear instalaciones artísticas interactivas. Utilizando tecnologías como Max/MSP/Jitter, Processing y Arduino, este estudio investiga cómo los sensores pueden transformar la percepción del espacio en el arte. Desplegado en [Estudios de Sensores No. 3](https://vimeo.com/31523202).
+
+**English Version:**
+
+"Studies of Sensors No. 3" is another experiment from my master's thesis, focusing on the use of proximity sensors to create interactive art installations. Using technologies such as Max/MSP/Jitter, Processing, and Arduino, this study investigates how sensors can transform the perception of space in art. Deployed at [Studies of Sensors No. 3](https://vimeo.com/31523202).
+
+
