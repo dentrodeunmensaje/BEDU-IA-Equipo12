@@ -29,7 +29,9 @@ Mi conjunto de habilidades abarca tanto el ámbito musical como el tecnológico.
 Estoy entusiasmado por seguir explorando nuevas fronteras en la intersección de la tecnología y las artes, y por contribuir con mis conocimientos y habilidades a proyectos innovadores y desafiantes.
 
 ---
-###English version
+
+### English version
+
 ## Hello!
 
 I'm Rodrigo Villarreal Jiménez, a passionate teacher and musician with over 10 years of experience in higher education. My professional journey has been diverse and enriching, spanning from composing for advertising and film to translating and editing texts. Recently, I completed a full stack web development bootcamp, opening new doors for me in the fascinating world of programming.
