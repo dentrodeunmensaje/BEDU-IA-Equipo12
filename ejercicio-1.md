@@ -232,7 +232,6 @@ In addition to my work in translation and editing, I have also contributed artic
 2. **Repositorio de Código:**
    - [GitHub Repository](https://github.com/dentrodeunmensaje/rvjportfolio)
 3. **Sección de Programación:**
-   - [The Arcade](https://thearcade.herokuapp.com/)
    - [A Walk Through The Met](https://dentrodeunmensaje.github.io/metapiproject/)
    - [A Simple Additive Synth](https://dentrodeunmensaje.github.io/asimplesynth/)
    - [RPC-1](https://dentrodeunmensaje.github.io/RPC-1/)
