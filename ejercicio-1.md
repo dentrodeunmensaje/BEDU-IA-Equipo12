@@ -146,8 +146,8 @@ Music Visualizer is an interactive tool that generates dynamic visualizations ba
 A lo largo de mi carrera, he tenido el privilegio de trabajar en una amplia gama de proyectos musicales que abarcan desde la composición para cine y publicidad hasta la creación de instalaciones multimedia. A continuación, algunos de los proyectos más destacados:
 
 - **"Hotcakes"**: Composición y diseño de sonido para el cortometraje de animación dirigido por Alfonso De la Cruz. Seleccionado en más de 17 festivales internacionales de cine en 6 países diferentes. [Ver proyecto](https://vimeo.com/54919976)
-- **"Tax Refund In Drive"**: Música y diseño de sonido para el proyecto publicitario de Sanders/Wingo Advertising en 2015. [Ver proyecto](https://vimeo.com/116680540)
-- **"El Camino de Felipe"**: Composición para el cortometraje dirigido por Juan M. Fernández. Ganador del mejor cortometraje nacional de ficción en la Muestra Independiente Audiovisual Xalisco en 2015. [Ver proyecto](https://www.youtube.com/watch?v=-GWFdi5CuU)
+- **"Tax Refund In Drive"**: Música y diseño de sonido para el proyecto publicitario de Sanders/Wingo Advertising en 2015. 
+- **"El Camino de Felipe"**: Composición para el cortometraje dirigido por Juan M. Fernández. Ganador del mejor cortometraje nacional de ficción en la Muestra Independiente Audiovisual Xalisco en 2015. 
 - **"9:30 am"**: Composición y diseño de sonido para el cortometraje de animación dirigido por Jellyfish Animation. Ganador del mejor cortometraje nacional de animación en el Festival Internacional de Cine de Morelia en 2014. [Ver proyecto](https://vimeo.com/101649954)
 
 ### Instalaciones Multimedia
@@ -230,7 +230,7 @@ In addition to my work in translation and editing, I have also contributed artic
 1. **Sitio Web Principal:**
    - [RVJ Portfolio](https://dentrodeunmensaje.github.io/rvjportfolio/)
 2. **Repositorio de Código:**
-   - [GitHub Repository](https://github.com/dentrodeunmensaje/rvjportfolio!
+   - [GitHub Repository](https://github.com/dentrodeunmensaje/rvjportfolio)
 3. **Sección de Programación:**
    - [The Arcade](https://thearcade.herokuapp.com/)
    - [A Walk Through The Met](https://dentrodeunmensaje.github.io/metapiproject/)
