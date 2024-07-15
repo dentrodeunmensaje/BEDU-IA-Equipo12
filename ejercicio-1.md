@@ -8,15 +8,19 @@
 
 Soy Rodrigo Villarreal Jiménez, un apasionado profesor y músico con más de 10 años de experiencia en la educación superior. Mi viaje profesional ha sido diverso y enriquecedor, abarcando desde la composición para publicidad y cine hasta la traducción y edición de textos. Recientemente, he concluido un bootcamp de desarrollo web full stack, lo que me ha abierto nuevas puertas en el fascinante mundo de la programación.
 
-
+![Hola!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyA-Ic_wfkVUVFbTJRnKJD-TrBfvKOwUW4dA&s)
 
 ### Mi Trayectoria
 
 Mi formación académica incluye un grado en Interpretación Musical (Canto) por la Universidad Autónoma de Ciudad Juárez (UACJ) y una maestría en Tecnología Musical por la Universidad Nacional Autónoma de México (UNAM), donde fui galardonado con la medalla "Alfonso Caso" al mérito académico.
 
+![La medalla Alfonso Caso] (https://www.gaceta.unam.mx/wp-content/uploads/2019/10/MEDALLA_ALFONSO_CASO.jpg)
+
 ### Experiencia Profesional
 
-He tenido el privilegio de enseñar producción de audio para multimedia en el Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) y artes digitales en la UACJ. Además, he trabajado como compositor y diseñador de sonido en diversos proyectos de cine y animación que han sido reconocidos en festivales internacionales.
+He tenido el privilegio de enseñar producción de audio para multimedia en el Instituto Tecnológico de Estudios Superiores de Monterrey (ITESM) y artes digitales en la UACJ. Además, he trabajado como compositor y diseñador de sonido en diversos proyectos de cine y animación que han sido reconocidos en festivales internacionales. Desde 2007 trabajo como Profesor de Tiempo Completo en el Centro Universitario de las Artes de la Universidad Autónoma de Ciudad Juárez.
+
+![Mi lugar de trabajo, el Centro Universitario de las Artes](https://comunica.uacj.mx/wp-content/uploads/2019/10/CUDA-3.jpg)
 
 ### Habilidades
 
