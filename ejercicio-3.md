@@ -128,7 +128,7 @@ Envíanos un email a [info@motifmusica.com](mailto:info@motifmusica.com)
 
 [Comprar Ahora](https://pay.hotmart.com/Y38176540X?checkoutMode=10&bid=1721073570360)
 
-## URLs y Repositorios Utilizados
+## URLs y Referencias Utilizadas
 
 ### Canal de YouTube:
 [Visita el canal](https://youtube.com/channel/UCKswz7_movU_Dctlf2SQ1SQ?si=oqFf3p3aI6As8nvL)
