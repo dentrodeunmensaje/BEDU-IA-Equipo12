@@ -14,7 +14,7 @@ Soy Rodrigo Villarreal Jiménez, un apasionado profesor y músico con más de 10
 
 Mi formación académica incluye un grado en Interpretación Musical (Canto) por la Universidad Autónoma de Ciudad Juárez (UACJ) y una maestría en Tecnología Musical por la Universidad Nacional Autónoma de México (UNAM), donde fui galardonado con la medalla "Alfonso Caso" al mérito académico.
 
-![La medalla Alfonso Caso] (https://i.ibb.co/5c6N9VJ/Screenshot-2024-07-16-at-12-36-52-a-m.png)
+![La medalla Alfonso Caso](https://i.ibb.co/5c6N9VJ/Screenshot-2024-07-16-at-12-36-52-a-m.png)
 
 ### Experiencia Profesional
 
